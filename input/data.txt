@@ -1,0 +1,7 @@
+Document1 This is a sample document containing words and phrases  
+Document2 Another document that also has words and common phrases  
+Document3 Sample text with different words and unique terms  
+Document4 A completely different document with unique terms and expressions  
+Document5 This document contains sample words and additional information  
+Document6 Another text file with words, phrases, and sentences  
+Document7 Common words appear in this document along with unique content  
